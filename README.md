@@ -3,10 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/liavbenshimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liavbenshimon" height="30" width="40" /></a>
-<a href="https://fb.com/liav ben shimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="liav ben shimon" height="30" width="40" /></a>
-<a href="https://instagram.com/liav ben shimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liav ben shimon" height="30" width="40" /></a>
-<a href="https://discord.gg/Liavbenshimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Liavbenshimon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://linkedin.com/in/liav-ben-shimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/liav-ben-shimon" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/liav.benshimon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/liav.benshimon/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/liavbenshimon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/liavbenshimon/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
